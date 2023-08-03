@@ -17,3 +17,6 @@ Don't take it seriously, use it just for fun :)
 
 1. Launch mhf_60fps.exe as administrator.
    Keep this app running while playing the game.
+
+2. There are a few changes regarding graphics and we recommend the following settings.  
+![image](https://github.com/suzaku01/FZ-60FPS-Patch/assets/89909040/10789f53-bd26-41f2-9cc2-6148425da0b6)
